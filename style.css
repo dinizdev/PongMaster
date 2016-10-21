@@ -1,0 +1,9 @@
+/*CODIGOS FEITOS POR @CLAWS*/
+canvas{
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			background-color: black;
+			margin-top: -300px;
+			margin-left: -300px;
+		}
