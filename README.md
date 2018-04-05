@@ -1,6 +1,6 @@
 # PongMaster
 Jogo feito em JavaScript para fins didaticos.
-[Claws Design Web-Site](http://clawsdesign.netne.net)
+[Claws Design Web-Site](https://clawsdev.github.io)
 
 Pong ScreenShot
 
