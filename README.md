@@ -1,5 +1,5 @@
 # Pong Master Javascript Vanilla
-> Jogo feito em java script para estudos e fins didáticos.
+> Game made in javascript for studies and didactic purposes ✨
 
 ## Running locally
 
