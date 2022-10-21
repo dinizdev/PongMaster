@@ -1,6 +1,24 @@
-# PongMaster
-Jogo feito em JavaScript para fins didaticos.
-[Claws Dev](https://clawsdev.github.io)
+# Pong Master Javascript Vanilla
+> Jogo feito em java script para estudos e fins didáticos.
+
+## Running locally
+
+1. Clone this repo:
+
+```sh
+$ git clone https://github.com/dinizdev/PongMaster.git
+```
+
+2. Then go to the project's folder:
+
+```sh
+cd PongMaster
+```
+3. Run locally:
+
+```sh
+node main.js
+```
 
 Pong ScreenShot
 
